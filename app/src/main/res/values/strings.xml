@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">會員管理系統</string>
+    <string name="hint_name">姓名</string>
+    <string name="hint_email">電郵</string>
+    <string name="hint_password">密碼</string>
+    <string name="hint_confrim_password">確認密碼</string>
+    <string name="text_login">登錄</string>
+    <string name="text_register">註冊</string>
+    <string name="error_message_name">請輸入姓名</string>
+    <string name="error_message_email">請輸入電郵</string>
+    <string name="error_message_age">請輸入年齡</string>
+    <string name="error_message_password">請輸入密碼</string>
+    <string name="success_message">註冊成功</string>
+    <string name="text_not_member">沒有帳號,按這裡註冊</string>
+    <string name="error_email_exists">電郵已經註冊</string>
+    <string name="error_password_match">密碼不一致</string>
+    <string name="error_valid_email_password">電郵或密碼錯誤</string>
+    <string name="text_member">已經註冊按這裡登錄</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search_title">搜尋標題</string>
+    <string name="search_hint">提示</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
